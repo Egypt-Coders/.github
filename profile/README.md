@@ -1,5 +1,5 @@
+<img src="media/alxegypt.png" alt="Logo" width="939" height="200">
 
-![](media/alxegypt.png)
 # Alx Egypt
 
 Welcome to the Alx Egypt organization on GitHub! Our mission is to help new programmers learn and to make the source code of our open source projects available to the community.
@@ -8,7 +8,7 @@ Welcome to the Alx Egypt organization on GitHub! Our mission is to help new prog
 
 ## About Us
 
-![](media/about.png)
+<img src="media/about.png" alt="Logo" width="939" height="200">
 
 Alx Egypt is owned by the staff team of the Discord server Alx Egypt. We are a group of developers who are passionate about programming and want to help others learn and grow in this field. Our organization is open to anyone who shares our passion for programming and is interested in contributing to our projects.
 
@@ -18,7 +18,7 @@ We believe that programming is a powerful tool for solving problems and creating
 
 ## Projects
 
-![](media/Projects.png)
+<img src="media/Projects.png" alt="Logo" width="939" height="200">
 
 We maintain a number of open source projects on our GitHub page. Our projects cover a wide range of topics, from web development to machine learning. We encourage anyone who is interested in contributing to our projects to get in touch with us. You can check out our repositories [here](https://github.com/orgs/Egypt-Coders/repositories).
 
@@ -26,7 +26,7 @@ We maintain a number of open source projects on our GitHub page. Our projects co
 
 ## Community
 
-![](media/Community.png)
+<img src="/media/Community.png" alt="Logo" width="939" height="200">
 
 At Alx Egypt, we believe that programming is best learned in a collaborative and supportive environment. That's why we have a vibrant community on Discord where members can ask for help, share resources, and collaborate on projects. Our community is open to anyone who is interested in programming, regardless of their level of experience.
 
@@ -36,7 +36,8 @@ We also organize regular events and workshops to help our members develop their 
 
 ## Social Media
 
-![](media/media.png)
+<img src="/media/media.png" alt="Logo" width="939" height="200">
+
 
 Follow us on [Twitter](https://twitter.com/alx_egypt), join our [Discord server](https://discord.gg/Alx), and visit our [website](https://egypt-coders.com/) and [wiki](https://alx.wiki) to stay up-to-date on our latest projects and initiatives.
 
@@ -49,7 +50,8 @@ Follow us on [Twitter](https://twitter.com/alx_egypt), join our [Discord server]
 
 ## Support
 
-![](media/support.png)
+<img src="/media/support.png" alt="Logo" width="939" height="200">
+
 
 Alx Egypt is a community-driven organization that relies on the support of its members to continue operating. If you find our projects useful and would like to support us, consider becoming a sponsor or making a donation. Every little bit helps us to keep our projects running and to make programming education accessible to everyone.
 
